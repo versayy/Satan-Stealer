@@ -1,14 +1,9 @@
 <h1> Satan Stealer</h1> 
 <p align="center"> 
-  <kbd>
-<img src="https://cdn.discordapp.com/attachments/1042447445839327233/1042481482695983104/1fa9fcfd25964998568f0c4215a363f0.jpg" width="400"></img>
-  </kbd>
+
+
+
 </p>
-
-<p> if you got error add me Maybach-#1337 </p>
-<p> discord.gg/ZFvAgzn6BR for more info </p>
-
-
 
 ## Features:
 » Grabs Discord Information and HQ Friends.
